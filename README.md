@@ -8,16 +8,16 @@ Welcome to Omni OS, a collection of programs designed for educational purposes a
    - [calculator.py](https://github.com/sidhansukeshri/Omni_OS/blob/main/Calculator/calculator.py): A simple calculator program implemented in Python.
 
 2. **File System Viewer**
-   - [file_system_viewer.py](file_system_viewer.py): A program to view and navigate through the file system.
+   - [file_system_viewer.py](https://github.com/sidhansukeshri/Omni_OS/blob/main/FileSystemViewer/file_system_viewer.py): A program to view and navigate through the file system.
 
 3. **Memory Allocator**
-   - [memory_allocator.py](memory_allocator.py): A memory allocation program demonstrating basic memory management techniques.
+   - [memory_allocator.py](https://github.com/sidhansukeshri/Omni_OS/blob/main/MemoryAllocator/memory_allocator.py): A memory allocation program demonstrating basic memory management techniques.
 
 4. **Process Manager**
-   - [process_manager.py](process_manager.py): A process management program allowing users to manage processes.
+   - [process_manager.py](https://github.com/sidhansukeshri/Omni_OS/blob/main/ProcessManager/process_manager.py): A process management program allowing users to manage processes.
 
 5. **Simple Shell**
-   - [simple_shell.py](simple_shell.py): A basic shell program providing a command-line interface for interacting with the system.
+   - [simple_shell.py](https://github.com/sidhansukeshri/Omni_OS/blob/main/SimpleShell/simple_shell.py): A basic shell program providing a command-line interface for interacting with the system.
 
 6. **Launcher**
    - [launcher.py](launcher.py): A launcher program to execute the individual components of Omni OS.

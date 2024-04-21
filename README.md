@@ -5,7 +5,7 @@ Welcome to Omni OS, a collection of programs designed for educational purposes a
 
 ## Programs
 1. **Calculator**
-   - [calculator.py]([calculator.py](https://github.com/sidhansukeshri/Omni_OS/blob/main/Calculator/calculator.py)): A simple calculator program implemented in Python.
+   - [calculator.py](https://github.com/sidhansukeshri/Omni_OS/blob/main/Calculator/calculator.py): A simple calculator program implemented in Python.
 
 2. **File System Viewer**
    - [file_system_viewer.py](file_system_viewer.py): A program to view and navigate through the file system.
